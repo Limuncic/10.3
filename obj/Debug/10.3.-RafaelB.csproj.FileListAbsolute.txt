@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\10.3.-RafaelB\bin\Debug\10.3.-RafaelB.exe.config
+C:\Users\ucenik\source\repos\10.3.-RafaelB\bin\Debug\10.3.-RafaelB.exe
+C:\Users\ucenik\source\repos\10.3.-RafaelB\bin\Debug\10.3.-RafaelB.pdb
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\10.3.-RafaelB.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\10.3.-RafaelB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\_10._3._RafaelB.Form1.resources
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\_10._3._RafaelB.Properties.Resources.resources
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\10.3.-RafaelB.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\10.3.-RafaelB.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\10.3.-RafaelB.exe
+C:\Users\ucenik\source\repos\10.3.-RafaelB\obj\Debug\10.3.-RafaelB.pdb
